@@ -1,0 +1,7 @@
+/.vs/*
+/bin/*
+/lib/*
+/StreamBridge/*
+/x64/*
+
+!.gitignore
