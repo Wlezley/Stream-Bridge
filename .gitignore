@@ -5,6 +5,10 @@
 
 /bin/*
 /build/*
+#/config/...
+#/include/...
 /lib/*
+#/src/...
 /StreamBridge/*
+# TODO: Tohle půjde do prdele... Přesunu to do buildu.
 /x64/*
