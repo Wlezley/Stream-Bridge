@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="StreamBridge.vcxproj" />
+  <Project Path="StreamBridge.vcxproj" Id="2fa9f5a9-6190-4bc5-bde6-31705ec0c967" />
 </Solution>

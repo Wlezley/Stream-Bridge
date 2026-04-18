@@ -1,7 +1,10 @@
+!.gitignore
+
+/.git/*
 /.vs/*
+
 /bin/*
+/build/*
 /lib/*
 /StreamBridge/*
 /x64/*
-
-!.gitignore
