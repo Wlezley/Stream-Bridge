@@ -1,6 +1,16 @@
 {
-  "avatar.happy": {
-    "osc": "/avatar/parameters/Smile",
-    "value": 1.0
+  "vtuber.emotes": {
+    "avatar.happy": {
+      "osc": "/avatar/parameters/Smile",
+      "value": 1.0
+    },
+    "avatar.sad": {
+      "osc": "/avatar/parameters/Cry",
+      "value": 1.0
+    },
+    "avatar.angry": {
+      "osc": "/avatar/parameters/Angry",
+      "value": 1.0
+    }
   }
 }
